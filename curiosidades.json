@@ -1,0 +1,55 @@
+ 
+{
+  "Curiosidades" : [
+    {
+        "id" : 1,
+        "img" : "https://i.pinimg.com/originals/39/87/a9/3987a920f7623c701197b3b06b58b79d.gif",
+        "title" : "Hange Zoe no tiene género",  
+        "curiosity":"Hajime Isayama el creador de Shingeki no Kyojin en una entrevista afirmó que Hange Zoe no tiene un género oficial sino que lo deja a la imaginación del lector en el manga, sin embargo en el anime tiene el género femenino."
+
+    },
+
+    {
+        "id" : 2,
+        "img" : "https://i.pinimg.com/564x/cc/8c/01/cc8c016a350fa271f7d94420690044c6.jpg",
+        "title" : "Origen del nombre Mikasa",  
+        "curiosity":"Se dice que Isayama nombró a Mikasa como un barco acorazado oceánico de la fuerza naval del imperio japonés por su creencia en que una serie con personajes femeninos llamados como barcos de guerra famosos sería exitosa."
+
+    },
+    
+    {
+        "id" : 3,
+        "img" : "https://i.pinimg.com/564x/ef/0d/e2/ef0de20a8368e774ed3d7f00a2d1d247.jpg",
+        "title" : "Ymir aún es jovén",  
+        "curiosity":"Ymir pasó 60 años como un titán original y no envejeció ni un día hasta que recuperó su forma humana al comer a un titan cambiante. Esto sugiere que posee física y mentalmente 17 años, pero su edad cronológica está entre 70-80 años."
+        
+
+    },
+    
+    {
+        "id" : 4,
+        "img" : "https://i.pinimg.com/564x/8c/cb/2b/8ccb2b12ef770ef8baf0a2d5c582b957.jpg",
+        "title" : "Grado de Levi",  
+        "curiosity":"Levi tiene el título de “líder de los soldados”. Sin embargo, sus amigos y subordinados suelen llamarlo con un título más corto “lance corpo”. Esto ha llevado a pensar que es realmente un soldado de menor rango que el que posee realmente."
+        
+
+    },
+   
+      {
+        "id" : 5,
+        "img" : "https://i.pinimg.com/564x/97/5b/38/975b38922301064a648042529a32447e.jpg",
+        "title" : "Cumpleaños de Armin",  
+        "curiosity":"El cumpleaños de Armin, el 3 de noviembre, ese mismo día, en Japón se celebrado el Día de la Cultura, festividad que promueve la educación, cultura y arte en los jóvenes estudiantes. Shingeki no Kyojin también promueve el estudio."
+    },
+    
+    {
+        "id" : 6,
+        "img" : "https://i.pinimg.com/564x/97/5b/38/975b38922301064a648042529a32447e.jpg",
+        "title" : "Cumpleaños de Armin",  
+        "curiosity":"El cumpleaños de Marco es el 16 de junio, que de igual forma es la mitad del año y, cuando murió, solo la mitad de su cuerpo apareció. Es una curiosidad muy irónica, ya que fue una de las pérdidas más dolorosas que vimos en el anime."
+    }
+   
+
+    ]
+ 
+ }
